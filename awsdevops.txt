@@ -1,1 +1,3 @@
 Welcome to awsdevops
+here we can learn awsdevops
+we can learn ec2,lambda,eks etc
