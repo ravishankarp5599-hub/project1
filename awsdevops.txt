@@ -1,2 +1,1 @@
 aws course is to learn about the cloud manangement and data 
-ec2,s3,lambda,vpc,cloudwatch
